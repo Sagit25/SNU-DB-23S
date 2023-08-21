@@ -1,0 +1,3 @@
+pymysql
+csv
+numpy 1.23.5
