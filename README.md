@@ -1,6 +1,8 @@
 # SNU-DB-2023S
 2023 Spring Database course project (SNU CSE)
 
+Using Python (lark, berkeleydb, mysql module)
+
 ### Proj 1: [Simple SQL Parser](https://github.com/Sagit25/SNU-DB-23S/tree/main/proj1-3)
 - Proj 1-1: [Simple Parser](https://github.com/Sagit25/SNU-DB-23S/tree/main/proj1-1)
 - Proj 1-2: [Implementing DDL & Basic DML](https://github.com/Sagit25/SNU-DB-23S/tree/main/proj1-2)
