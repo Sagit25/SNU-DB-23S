@@ -1,5 +1,7 @@
-# SNU-DB-2023S
+# SNU-Database
 2023 Spring Database course project (SNU CSE)
+
+Prof: Sang-goo Lee
 
 Using Python (lark, berkeleydb, mysql module)
 
